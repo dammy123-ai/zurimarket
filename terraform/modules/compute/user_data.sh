@@ -50,7 +50,7 @@ rm -rf /home/ec2-user/app
 git clone \
   --depth 1 \
   --branch main \
-  https://github.com/Ebikakpou/cloud-automation-toolkit.git \
+  https://github.com/dammy123-ai/zurimarket.git \
   /home/ec2-user/app
 
 cd /home/ec2-user/app
